@@ -22,8 +22,13 @@ public class Database {
    }
 
    public int findAverageLicenseFee() {
+        int i;
+        int averageFee = 0;
+        int totalFees = 0;
+        int nextFee = 0;
+
       for (i = 0; i < licenseList.size(); i++) {
-         int totalFees = currFee.getFee() + currFee;
+         totalFees = nextFee.getFee() + nextFee;
          i++;
       }
       return averageFee = totalFees / i;
