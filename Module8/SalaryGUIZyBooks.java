@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 
-public class SalaryGUI {
+public class SalaryGUIZyBooks {
    public static void main(String[] args) {
       int hourlyWage;  
       JFrame topFrame = null;        // Application window
