@@ -1,10 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "src",
         "VideosFromZyBooks",
-        "Citys",
-        "Certificates",
-        "LicenseFromZyBooks"
+        "LicenseFromZyBooks",
+        "Module8"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
